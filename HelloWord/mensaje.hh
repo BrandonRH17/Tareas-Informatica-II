@@ -1,0 +1,2 @@
+#define MENSAJE "Hello, World"
+
