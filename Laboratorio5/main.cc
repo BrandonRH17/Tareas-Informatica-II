@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include "Vector2d.hh"
 #include "Vehiculo.hh"
@@ -15,3 +16,10 @@ int main(){
     printf("%s\n", valor2.c_str());
 
 }
+=======
+#include "Vehiculo.hh"
+#include "Vector2d.hh"
+
+Vector2d::Vector2d(const float _x, const float _y) : x(_x), y(_y) {}
+Vehiculo(t)
+>>>>>>> 8752789e2b9bc53cf22f4f17d7398f41617b1bb7
