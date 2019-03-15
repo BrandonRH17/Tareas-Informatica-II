@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "Vehiculo.hh"
 #include "Vector2d.hh"
 #include <string>
@@ -31,10 +30,3 @@ void Vehiculo::avanzar(float tiem){
    Posicion.x = Posicion.x + Velocidad.x * tiem;
    Posicion.y = Posicion.y + Velocidad.y * tiem;
 }
-=======
-#include "Vehiculo.hh"
-#include "Vector2d.hh"
-
-Vector2d::Vector2d(const float _x, const float _y) : x(_x), y(_y) {}
-Vehiculo(t)
->>>>>>> 8752789e2b9bc53cf22f4f17d7398f41617b1bb7
